@@ -1,3 +1,3 @@
 # Homework 1
 ## Intro
-Hello, Professor
+Hello, Professor!
